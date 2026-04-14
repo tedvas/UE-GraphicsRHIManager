@@ -1,6 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "RHIManagerBPLibrary.h"
+#include "Misc/ConfigCacheIni.h"
 #include "RHIManager.h"
 
 URHIManagerBPLibrary::URHIManagerBPLibrary(const FObjectInitializer& ObjectInitializer)

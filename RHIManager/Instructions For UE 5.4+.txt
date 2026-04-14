@@ -1,0 +1,9 @@
+Put this in your project's DefaultEngine.ini in the Config folder.
+
+[SectionsToSave]
+Section=/Script/WindowsTargetPlatform.WindowsTargetSettings
+
+OR
+
+[SectionsToSave]
+bCanSaveAllSections=true

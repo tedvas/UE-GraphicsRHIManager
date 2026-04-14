@@ -2,11 +2,11 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "RHIManager",
-	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "",
-	"CreatedByURL": "",
+	"FriendlyName": "RHI Manager",
+	"Description": "Allows you to switch RHI through an in game setting.",
+	"Category": "Graphics API",
+	"CreatedBy": "Cesio137",
+	"CreatedByURL": "https://github.com/Cesio137/UE4-GraphicsRHIManager",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -18,7 +18,7 @@
 		{
 			"Name": "RHIManager",
 			"Type": "Runtime",
-			"LoadingPhase": "PreLoadingScreen"
+			"LoadingPhase": "Default"
 		}
 	]
 }
