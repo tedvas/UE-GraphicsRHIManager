@@ -22,3 +22,9 @@ Warning: It's work only for windows plataform. This plugin was compiled for UE 4
 - Extract/Move `RHIManager` folder into your project's `Plugin` folder
 - Don't forget to check vulkan box inside `Projects Settings/Plataform/Windows` to use this API.
 - Now search by `SetGraphicsRHI` to toggle default RHI, also search by `GetCurrentGraphicsRHI` to get the current Graphics RHI
+
+## For UE 5.4+
+Put this in your project's DefaultEngine.ini in the Config folder.
+
+[SectionsToSave]
+Section=/Script/WindowsTargetPlatform.WindowsTargetSettings
