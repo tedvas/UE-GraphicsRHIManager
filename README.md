@@ -27,4 +27,5 @@ Warning: It's work only for windows plataform. This plugin was compiled for UE 4
 Put this in your project's DefaultEngine.ini in the Config folder.
 
 [SectionsToSave]
+
 Section=/Script/WindowsTargetPlatform.WindowsTargetSettings
